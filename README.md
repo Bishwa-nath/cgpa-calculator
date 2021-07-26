@@ -3,7 +3,7 @@
 
 This simple C++ program will calculate **CGPA** - Cumulative Grade Point Average.
 
-Run the program using console/terminal/ or your favourite IDE.
+Run the **cgpa_calculate.cpp** file using console/terminal/ or your favourite IDE.
 
 If need, **change** the mimimum passing **GPA** or **CGPA** accourding to your academic curriculum.
 
