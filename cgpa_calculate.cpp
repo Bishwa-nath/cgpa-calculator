@@ -55,9 +55,9 @@ int main()
     while(true)
     {
 
-        int exam;
+        char exam;
         cin >> exam;
-        if(exam == 1)
+        if(exam == '1')
         {
             double t_c=0, t_p=0;
             int sem, crs;
@@ -102,7 +102,7 @@ int main()
                 }
             }
         }
-        else if(exam == 2)
+        else if(exam == '2')
         {
             double t_c=0, t_p=0;
             int yr, crs;
@@ -164,6 +164,7 @@ int main()
             else
             {
                 cout << "Canceled!" << nl;
+                ok = false;
                 break;
             }
         }
